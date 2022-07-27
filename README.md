@@ -5,7 +5,7 @@ This project utilizes the use of the library Matplotlib to be able to represent 
 using and utilizing Juypter Notebook <br />
 accessing multiple csv files and exctracting data <br />
 data manipulation techniques to be able to represent several different statistical points in the data <br />
-be able to represent data and trends through Matplotlib and being able to pull format the graphical data<br />
+be able to represent data and trends through Matplotlib and being able to format the graphical data<br />
 finding meaningful conclusions from the given data<br />
 <br />
 
